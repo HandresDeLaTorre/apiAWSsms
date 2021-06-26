@@ -1,5 +1,5 @@
 module.exports = {
     api:{
-        port: process.env.API_PORT ||  5200,
+        port: 5200,
     }
 }
